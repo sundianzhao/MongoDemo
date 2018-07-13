@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMongoDBTest", "MyMongoDBTest\MyMongoDBTest.csproj", "{A35A5B55-3810-47CB-A0AB-371182B89E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZH.CacheService", "CacheService\ZH.CacheService.csproj", "{1EFD5D8B-1223-4705-8F53-601E12C3696A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A35A5B55-3810-47CB-A0AB-371182B89E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35A5B55-3810-47CB-A0AB-371182B89E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35A5B55-3810-47CB-A0AB-371182B89E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35A5B55-3810-47CB-A0AB-371182B89E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFD5D8B-1223-4705-8F53-601E12C3696A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFD5D8B-1223-4705-8F53-601E12C3696A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFD5D8B-1223-4705-8F53-601E12C3696A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFD5D8B-1223-4705-8F53-601E12C3696A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
